@@ -1,0 +1,2 @@
+E:\POIT\5 семестр\Курсовой\WinAPI Clock\Clock\Debug\Clock.exe
+E:\POIT\5 семестр\Курсовой\WinAPI Clock\Clock\Debug\Clock.pdb
